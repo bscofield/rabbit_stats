@@ -14,3 +14,8 @@ Most of the configuration in the script is handled by environment variables. You
 * RABBIT_QUEUE - RabbitMQ queue to check
 * RABBIT_USER - username for RabbitMQ access
 * RABBIT_PASSWORD - password for RabbitMQ access
+
+
+## Warning
+
+I'm learning Go, slowly. This code has no guarantee of correctness or anything else.
